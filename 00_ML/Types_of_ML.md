@@ -94,4 +94,3 @@ The robot gradually learns the best walking strategy.
 - Robotics
 - Autonomous driving
 - Recommendation systems
-- Resource management
